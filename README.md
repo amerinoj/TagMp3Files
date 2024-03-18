@@ -1,4 +1,4 @@
-wget https://github.com/amerinoj/TagMp3Files/blob/main/mp3_tag_file.sh
+wget https://raw.githubusercontent.com/amerinoj/TagMp3Files/main/mp3_tag_file.sh
 
 sudo chmod +x mp3_tag_file.sh
 
